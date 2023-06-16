@@ -5,7 +5,7 @@
  *
  * Description: print from 0-9 using putchar
  *
- * return: Always 0
+ * return: Always 0 (sucsess)
 */
 
 int main(void)
