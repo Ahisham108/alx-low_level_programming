@@ -4,8 +4,9 @@
  * main - Entry point
  *
  * Description: print from 0-9 using putchar
+ *		while using int variable
  *
- * return: Always 0 (sucsess)
+ * Return: Always 0 (sucsess)
 */
 
 int main(void)
