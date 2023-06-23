@@ -6,7 +6,7 @@
  *should be printed
 */
 
-voide print_diagonal(int n)
+void print_diagonal(int n)
 {
 	int postn, space;
 
