@@ -5,7 +5,7 @@
  * using two input parameters
  *
  * @a: input parameter 1
- * @b: input parameter 2 
+ * @b: input parameter 2
  *
  * Return: nothing
 */
