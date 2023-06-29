@@ -3,7 +3,7 @@ include "main.h"
 /**
  * _strncpy - A Function that copies a string
  *
- * @dest: poitner to destination input buffer
+ * @dest: poitner to destination input buffer.
  * @src: pointer to source input buffer
  * @n: bytes of @src
  *
