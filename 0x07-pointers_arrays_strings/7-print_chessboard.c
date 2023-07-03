@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_cheeseboard - prints cheese board
+ * print_cheeseboard - prints cheese board.
  *
  * @a: rows
  * return: nothing
