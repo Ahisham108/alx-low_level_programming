@@ -3,7 +3,7 @@
 /**
  * *_strchr - filles memory with a constant byte
  * @s: pointer to put the constant
- * @n: constant
+ * @c: constant
  * Return: Pointer to s
 */
 
