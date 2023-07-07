@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- *_strlen_recursion - return the length of the string 
- * @s: string to point
+ *_strlen_recursion - return the length of the string
+ *@s: string to point
  * Return: int
 */
 
