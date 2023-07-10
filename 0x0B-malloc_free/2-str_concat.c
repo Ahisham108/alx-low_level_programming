@@ -1,4 +1,4 @@
-#inlcude "main.h"
+#include "main.h"
 
 /**
  * _strlen - find length of a sring
