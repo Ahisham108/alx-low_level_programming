@@ -12,7 +12,7 @@ void format_char(char *separator, va_list ap)
 
 /**
  * format_int - formats integer
- * @separatop: the string separator
+ * @separator: the string separator
  * @ap: argument pointer
 */
 void format_int(char *separator, va_list ap)
@@ -51,7 +51,7 @@ void format_string(char *separator, va_list ap)
 
 void print_all(const char * const format, ...)
 {
-	| int i = 0, j;
+	int i = 0, j;
 	char *separator = "";
 	va_list ap;
 	token_t tokens[] = {
@@ -75,7 +75,7 @@ void print_all(const char * const format, ...)
 			}
 			j++;
 		}
-	|	i++;
+		i++;
 	}
 	printf("\n");
 	va_end(ap);
